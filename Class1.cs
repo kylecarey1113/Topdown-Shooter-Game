@@ -1,6 +1,6 @@
 ﻿using System;
 
-int main(void)
+int main()
 {
     int x;
     std::cin >> x;
