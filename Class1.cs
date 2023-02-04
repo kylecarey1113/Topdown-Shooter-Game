@@ -1,8 +1,7 @@
 ﻿using System;
 
-public class Class1
+int main(void)
 {
-	public Class1()
-	{
-	}
+    printf("Hello world\n")
+    return 0;
 }
